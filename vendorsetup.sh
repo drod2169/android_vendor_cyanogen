@@ -15,6 +15,7 @@ add_lunch_combo cyanogen_legend-eng
 add_lunch_combo cyanogen_liberty-eng
 add_lunch_combo cyanogen_one-eng
 add_lunch_combo cyanogen_passion-eng
+add_lunch_combo cyanogen_shadow-eng
 add_lunch_combo cyanogen_sholes-eng
 add_lunch_combo cyanogen_supersonic-eng
 add_lunch_combo cyanogen_vision-eng
